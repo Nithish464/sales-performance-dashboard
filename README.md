@@ -4,7 +4,7 @@ An interactive sales analytics dashboard built using **Google BigQuery and Looke
 
 ## 🚀 Live Dashboard
 
-[View Sales Performance Dashboard](https://datastudio.google.com/s/krZs0-NGiGk)
+[View Sales Performance Dashboard](https://datastudio.google.com/s/nT1htvt2fWk)
 
 ## 🛠️ Tools & Technologies
 
